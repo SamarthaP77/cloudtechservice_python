@@ -45,6 +45,15 @@ print(len(x))
 txt = "Hello World"
 x = txt[0]
 
+#Python data type conversion
+float(8)
+#8.0
+int(8.0)
+#8
+chr(88)
+#'X'
+
+
 
 
 
