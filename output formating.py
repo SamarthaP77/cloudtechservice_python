@@ -55,8 +55,9 @@ print(a==b)
 print(a!=b)
 
 #Assignment operators
-x = 10
-print(10)
+x = 100
+print(x)
+x+=10
 
 
 
