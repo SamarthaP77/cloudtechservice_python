@@ -64,4 +64,14 @@ if b>80:
         print("It is also true")
 else:
     print("It is not true")
+#elif statement
+A = 90
+B = 100
+if A>B:
+    print("A is greater")
+elif A==B:
+    print("A and B are equal")
+elif B>A:
+    print("B is greater")
+    
     
