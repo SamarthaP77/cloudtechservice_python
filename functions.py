@@ -48,7 +48,6 @@ def samartha(a,b):
     addition = a + b
     print(addition)
 samartha(5,3)
-8
 #Substraction of any two numbers
 def sub(x,y):
     s = x - y
